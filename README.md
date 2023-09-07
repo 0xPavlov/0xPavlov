@@ -2,8 +2,6 @@
 
 I'm Daniel and am currently studying Informatics/Computer Science at the Technical University of Munich.
 
-![A Pokemon walking](https://tenor.com/bcfiF.gif)
-
 <!--
 **0xPavlov/0xPavlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
