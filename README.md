@@ -2,7 +2,7 @@
 
 I'm Daniel and am currently studying Informatics/Computer Science at the Technical University of Munich.
 
-<div class="tenor-gif-embed" data-postid="15272739" data-share-method="host" data-aspect-ratio="1.90476" data-width="100%"><a href="https://tenor.com/view/pokemon-furret-walking-cute-gif-15272739">Pokemon Furret GIF</a>from <a href="https://tenor.com/search/pokemon-gifs">Pokemon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://tenor.com/bcfiF.gif)
 
 <!--
 **0xPavlov/0xPavlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
