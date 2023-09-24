@@ -1,0 +1,45 @@
+:root {
+  --COLOR-SPACE-CADET: #22223b;
+  --COLOR-ULTRA-VIOLET: #4a4e69;
+  --COLOR-ROSE-QUARTZ: #9a8c98;
+  --COLOR-PALE-DOGWOOD: #c9ada7;
+  --COLOR-ISABELLINE: #f2e9e4;
+}
+
+body {
+  background-color: var(--COLOR-ISABELLINE);
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: var(--COLOR-SPACE-CADET);
+  display: flex;
+}
+
+.nav-button {
+  margin-right: 20px;
+  background-color: var(--COLOR-ULTRA-VIOLET);
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  color: var(--COLOR-ISABELLINE);
+  min-width: fit-content;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0 5px 0 var(--COLOR-ROSE-QUARTZ);
+}
+
+.nav-button:active {
+  box-shadow: none;
+  transform: translateY(5px);
+}
+
+ul {
+  list-style-type: none; /* Remove default list bullets */
+}
+
+ul li {
+  text-align: left; /* Align list items to the left */
+  float: left;
+}
