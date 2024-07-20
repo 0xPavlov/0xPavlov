@@ -1,0 +1,17 @@
+
+### Hugo ###
+# Generated files by hugo
+portfolio/public/
+portfolio/resources/_gen/
+portfolio/assets/jsconfig.json
+portfolio/hugo_stats.json
+
+# Executable may be added to repository
+portfolio/hugo.exe
+portfolio/hugo.darwin
+portfolio/hugo.linux
+
+# Temporary lock file while building
+portfolio/.hugo_build.lock
+portfolio/themes/nightfall/
+.DS_Store

@@ -1,0 +1,44 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'nightfall'
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+user = "daniel"
+hostname = "pvlov.de"
+  [params.author]
+    name = "Daniel Pavlov"  # Website and RSS feed author
+    email = "daniel@pvlov.de"  # RSS feed email address
+
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/pvlov"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/daniel-pavlov-85b250264/"
+aria = "LinkedIn Profile"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "daniel@pvlov.de"
+aria = "My e-Mail Address"

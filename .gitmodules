@@ -1,0 +1,6 @@
+[submodule "website/themes/risotto"]
+	path = website/themes/risotto
+	url = https://github.com/joeroe/risotto.git
+[submodule "portfolio/themes/nightfall"]
+	path = portfolio/themes/nightfall
+	url = https://github.com/LordMathis/hugo-theme-nightfall
