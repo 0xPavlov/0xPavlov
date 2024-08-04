@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Daniel and currently a computer science student at the Technical University of Munich and in my limited free time i enjoy tinkering on my personal projects, feel free to check out the various repositories on here. 
+I'm Daniel and currently a computer science student at the Technical University of Munich and in my free time i enjoy working on my personal projects, feel free to check out the various repositories on here. 
 
 Here are some of the interesting things i do:  
 * [neuroTUM](neurotum.com)
