@@ -8,6 +8,8 @@ Here are some of the interesting things i do:
     At the moment I am a member of the Brain Computer Interface team at neuroTUM, a non-profit student organisation that has their roots at TUM.
     I contribute in various aspects and am currently trying to better understand how brains work for our ultimate goal - [the Cybathlon](https://cybathlon.ethz.ch/en/event/disciplines/bci)
 
+Checkout my CV [here](https://github.com/pvlov/pvlov/blob/main/cv.pdf) (I'll try my best to keep it up to date!) 
+
 <hr>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliananzinger&layout=compact&theme=vision-friendly-dark)
